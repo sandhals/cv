@@ -40,12 +40,12 @@ export default function Home() {
 "I write breakthrough copy.",
 "I write breakthrough copy for breakthrough brands.",
 "I give breakthrough brands their breakthrough voice.",
-"All breakthroughs need breakthrough copy – I find you that voice.",
-"Every breakthrough needs breakthrough copy – I find voices for ambitious brands.",
-"Every breakthrough deserves breakthrough copy – I craft distinct voices for ambitious brands.",
-"Every breakthrough deserves breakthrough copy – I craft distinctive brand voices for ambitious companies.",
-"Every breakthrough deserves breakthrough copy – I craft distinctive brand voices that make ambitious companies impossible to ignore.",
-"Every breakthrough deserves breakthrough copy – I craft distinctive brand voices that make ambitious companies impossible to ignore or imitate."
+"All breakthroughs need breakthrough copy. I find you that voice.",
+"Every breakthrough needs breakthrough copy. I find voices for ambitious brands.",
+"Every breakthrough deserves breakthrough copy. I craft distinct voices for ambitious brands.",
+"Every breakthrough deserves breakthrough copy. I craft distinctive brand voices for ambitious companies.",
+"Every breakthrough deserves breakthrough copy. I craft distinctive brand voices that make ambitious companies impossible to ignore.",
+"Every breakthrough deserves breakthrough copy. I craft distinctive brand voices that make ambitious companies impossible to ignore or imitate."
   ]
 
 
